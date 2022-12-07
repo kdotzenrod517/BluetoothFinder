@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">BluetoothFinder</string>
-    <string name="searching">Searching...</string>
+    <string name="searching">Searching…</string>
+    <string name="finished">Finished</string>
 </resources>
